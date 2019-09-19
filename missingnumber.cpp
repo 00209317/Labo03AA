@@ -60,7 +60,7 @@ int main(void){
     
     printArray(A, 7);
     printf("\n ");
-    printf("%d", A[6]);
+    //printf("%d", A[6]);
     printf("\n ");
     printf("\n ");
     if(A[6]%2==0){
